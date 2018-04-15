@@ -1,6 +1,6 @@
 # Event-Driven-Stock-Prediction
 
-Currently I am a part of the event-driven stock prediction research group. This repository contains presentations which I prepared based on the related scientific papers.
+Currently I am a part of the event-driven stock prediction research group at HSE. This repository contains presentations which I prepared based on the related scientific papers.
 
 References:
 
